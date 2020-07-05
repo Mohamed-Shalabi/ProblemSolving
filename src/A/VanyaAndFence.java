@@ -2,6 +2,10 @@ package A;
 
 import java.util.Scanner;
 
+/**
+ * a class to solve the problem {@link = http://codeforces.com/contest/677/problem/A}
+ */
+
 public class VanyaAndFence {
 
     public static void main(String[] args) {
