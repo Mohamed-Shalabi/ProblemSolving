@@ -1,87 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="53fc5801-f052-4b7c-8b6c-78c6957a79d6" name="Default Changelist" comment="problems solved in 11/8/2020.">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="53fc5801-f052-4b7c-8b6c-78c6957a79d6" name="Default Changelist" comment="problems solved in 4/9/2020.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem Solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/AlyonaAndNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/AlyonaAndNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/AntonAndDanik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/AntonAndDanik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/AntonAndLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/AntonAndLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BearAndBigBrother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BearAndBigBrother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BeautifulMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BeautifulMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BitPlusPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BitPlusPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BlackSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BlackSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BoyOrGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BoyOrGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/BuyShovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/BuyShovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/CarrotCakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/CarrotCakes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/ChewbaccaAndNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/ChewbaccaAndNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/ColorfulStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/ColorfulStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/DiceTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/DiceTower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/DieRoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/DieRoll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/EvenOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/EvenOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/FreeIceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/FreeIceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Games.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/GoodNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/GravityFlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/GravityFlip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/HelpVasilisaTheWise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/HelpVasilisaTheWise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/HelpfulMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/HelpfulMaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/IqTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/IqTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/IsYourHorseshoeOnTheOtherHoof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/IsYourHorseshoeOnTheOtherHoof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Juicer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Juicer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Keyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/KseniaandPanScales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/KseniaandPanScales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/LaunchOfCollider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/LaunchOfCollider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/LinelandMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/LinelandMail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Magnets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Magnets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/MahmoudAndLongestUncommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/MahmoudAndLongestUncommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/MountainScenery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/MountainScenery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/NewPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/NewPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/NextRound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/NextRound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/NightAtTheMuseum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/NightAtTheMuseum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/OathOfTheNightsWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/OathOfTheNightsWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Pangram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/PetyaAndStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/PetyaAndStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/PoliceRecruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/PoliceRecruits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/PoloThePenguinAndSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/PoloThePenguinAndSegments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Presents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Presents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/SerejaAndDima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/SerejaAndDima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/ShaassAndOskols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/ShaassAndOskols.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Snacktower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Snacktower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/SnowFootprints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/SnowFootprints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/StonesOnTheTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/StonesOnTheTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/TeamOlympiad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/TeamOlympiad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Twins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Twins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/VanyaAndFence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/VanyaAndFence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/WayTooLongWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/WayTooLongWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/WordCapitalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/WordCapitalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/YaroslavAndPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/YaroslavAndPermutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/A/YoungPhysicist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/A/YoungPhysicist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/BearAndFindingCriminals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/BearAndFindingCriminals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/BurglarAndMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/BurglarAndMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/Coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/Decoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/Decoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/EffectiveApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/EffectiveApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/FormingTeams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/FormingTeams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/KuriyamaMiraisStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/KuriyamaMiraisStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/PetyaAndCountryside.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/PetyaAndCountryside.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/Pipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/Pipeline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/B/VanyaAndLanterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/B/VanyaAndLanterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spoj/AggrCowAggressiveCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spoj/AggrCowAggressiveCows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spoj/MakeTreeHierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spoj/MakeTreeHierarchy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uvaonlinejudge/BattleShips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uvaonlinejudge/BattleShips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uvaonlinejudge/Marcus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uvaonlinejudge/Marcus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uvaonlinejudge/OrderingTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uvaonlinejudge/OrderingTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uvaonlinejudge/ThePlayboyChimp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uvaonlinejudge/ThePlayboyChimp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uvaonlinejudge/TheSeasonalWar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uvaonlinejudge/TheSeasonalWar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,11 +64,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Application.PresidentsOffice">
-    <configuration name="EffectiveApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.B.EffectiveApproach" />
+  <component name="RunManager" selected="Application.Fence">
+    <configuration name="Fence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.B.Fence" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -194,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EffectiveApproach" />
       <item itemvalue="Application.KuriyamaMiraisStones" />
       <item itemvalue="Application.SpojCsumq" />
       <item itemvalue="Application.LocalizedSummingForBlurring" />
       <item itemvalue="Application.PresidentsOffice" />
+      <item itemvalue="Application.Fence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fence" />
         <item itemvalue="Application.PresidentsOffice" />
         <item itemvalue="Application.LocalizedSummingForBlurring" />
         <item itemvalue="Application.SpojCsumq" />
         <item itemvalue="Application.KuriyamaMiraisStones" />
-        <item itemvalue="Application.EffectiveApproach" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597182271821</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="problems solved in 4/9/2020.">
+      <created>1599343713115</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599343713115</updated>
+    </task>
+    <task id="LOCAL-00023" summary="problems solved in 4/9/2020.">
+      <created>1599343772057</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599343772057</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -391,6 +344,18 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the problems solved before 7/2020" />
     <MESSAGE value="Problems solved before 5/7/2020 added a comment with the link of the problem." />
@@ -410,7 +375,8 @@
     <MESSAGE value="problems solved in 8/8/2020." />
     <MESSAGE value="problems solved in 5/8/2020." />
     <MESSAGE value="problems solved in 11/8/2020." />
-    <option name="LAST_COMMIT_MESSAGE" value="problems solved in 11/8/2020." />
+    <MESSAGE value="problems solved in 4/9/2020." />
+    <option name="LAST_COMMIT_MESSAGE" value="problems solved in 4/9/2020." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -419,46 +385,50 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="555" y="201" width="800" height="710" key="#Plugins/0.34.1920.1046@0.34.1920.1046" timestamp="1599239757457" />
-    <state x="703" y="315" key="FileChooserDialogImpl" timestamp="1599239470017">
+    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl" timestamp="1599346417511">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="703" y="315" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1599239470017" />
-    <state width="1223" height="331" key="GridCell.Tab.0.bottom" timestamp="1599253126349">
+    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1599346417511" />
+    <state width="1866" height="318" key="GridCell.Tab.0.bottom" timestamp="1599354729641">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1223" height="331" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599253126349" />
-    <state width="1223" height="331" key="GridCell.Tab.0.center" timestamp="1599253126349">
+    <state width="1866" height="318" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599354729641" />
+    <state width="1866" height="318" key="GridCell.Tab.0.center" timestamp="1599354729638">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1223" height="331" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599253126349" />
-    <state width="1223" height="331" key="GridCell.Tab.0.left" timestamp="1599253126348">
+    <state width="1866" height="318" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599354729638" />
+    <state width="1866" height="318" key="GridCell.Tab.0.left" timestamp="1599354729636">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1223" height="331" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599253126348" />
-    <state width="1223" height="331" key="GridCell.Tab.0.right" timestamp="1599253126349">
+    <state width="1866" height="318" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599354729636" />
+    <state width="1866" height="318" key="GridCell.Tab.0.right" timestamp="1599354729639">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1223" height="331" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599253126349" />
-    <state width="1166" height="381" key="GridCell.Tab.1.bottom" timestamp="1599248501151">
+    <state width="1866" height="318" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599354729639" />
+    <state width="1866" height="367" key="GridCell.Tab.1.bottom" timestamp="1599354320388">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1166" height="381" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599248501151" />
-    <state width="1166" height="381" key="GridCell.Tab.1.center" timestamp="1599248501149">
+    <state width="1866" height="367" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599354320388" />
+    <state width="1866" height="367" key="GridCell.Tab.1.center" timestamp="1599354320388">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1166" height="381" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599248501149" />
-    <state width="1166" height="381" key="GridCell.Tab.1.left" timestamp="1599248501148">
+    <state width="1866" height="367" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599354320388" />
+    <state width="1866" height="367" key="GridCell.Tab.1.left" timestamp="1599354320388">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1166" height="381" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599248501148" />
-    <state width="1166" height="381" key="GridCell.Tab.1.right" timestamp="1599248501150">
+    <state width="1866" height="367" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599354320388" />
+    <state width="1866" height="367" key="GridCell.Tab.1.right" timestamp="1599354320388">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1166" height="381" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599248501150" />
-    <state x="439" y="246" key="SettingsEditor" timestamp="1599239731337">
+    <state width="1866" height="367" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599354320388" />
+    <state x="0" y="131" width="1299" height="728" key="SettingsEditor" timestamp="1599350141092">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="439" y="246" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1599239731337" />
+    <state x="0" y="131" width="1299" height="728" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1599350141092" />
+    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1599343773443">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1599343773443" />
     <state x="881" y="163" width="848" height="785" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599248150869">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
