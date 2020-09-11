@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53fc5801-f052-4b7c-8b6c-78c6957a79d6" name="Default Changelist" comment="problems solved in 5/9/2020.">
+    <list default="true" id="53fc5801-f052-4b7c-8b6c-78c6957a79d6" name="Default Changelist" comment="problems solved in 6/9/2020.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +67,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.LovelyPalindromes">
-    <configuration name="Fence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.B.Fence" />
+  <component name="RunManager" selected="Application.DevuTheDumbGuy">
+    <configuration name="DevuTheDumbGuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.B.DevuTheDumbGuy" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalizedSummingForBlurring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uvaonlinejudge.LocalizedSummingForBlurring" />
+    <configuration name="Fence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.B.Fence" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uvaonlinejudge.*" />
+          <option name="PATTERN" value="codeforces.B.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpojCsumq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spoj.SpojCsumq" />
+    <configuration name="SortTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.B.SortTheArray" />
       <module name="Problem Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spoj.*" />
+          <option name="PATTERN" value="codeforces.B.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SpojCsumq" />
-      <item itemvalue="Application.LocalizedSummingForBlurring" />
       <item itemvalue="Application.PresidentsOffice" />
       <item itemvalue="Application.Fence" />
       <item itemvalue="Application.LovelyPalindromes" />
+      <item itemvalue="Application.SortTheArray" />
+      <item itemvalue="Application.DevuTheDumbGuy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DevuTheDumbGuy" />
+        <item itemvalue="Application.SortTheArray" />
         <item itemvalue="Application.LovelyPalindromes" />
         <item itemvalue="Application.Fence" />
         <item itemvalue="Application.PresidentsOffice" />
-        <item itemvalue="Application.LocalizedSummingForBlurring" />
-        <item itemvalue="Application.SpojCsumq" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599354982022</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="problems solved in 6/9/2020.">
+      <created>1599420852797</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599420852797</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -387,7 +394,8 @@
     <MESSAGE value="problems solved in 11/8/2020." />
     <MESSAGE value="problems solved in 4/9/2020." />
     <MESSAGE value="problems solved in 5/9/2020." />
-    <option name="LAST_COMMIT_MESSAGE" value="problems solved in 5/9/2020." />
+    <MESSAGE value="problems solved in 6/9/2020." />
+    <option name="LAST_COMMIT_MESSAGE" value="problems solved in 6/9/2020." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -400,50 +408,54 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="405" y="134" key="#Project_Structure/0.34.1920.1046@0.34.1920.1046" timestamp="1599420231367" />
-    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl" timestamp="1599346417511">
+    <state x="100" y="134" width="1720" height="846" key="DiffContextDialog" timestamp="1599858994471">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1599346417511" />
-    <state width="1866" height="318" key="GridCell.Tab.0.bottom" timestamp="1599420495534">
+    <state x="100" y="134" width="1720" height="846" key="DiffContextDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1599858994471" />
+    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl" timestamp="1599421762420">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="318" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599420495534" />
-    <state width="1866" height="318" key="GridCell.Tab.0.center" timestamp="1599420495533">
+    <state x="703" y="315" width="513" height="516" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1599421762420" />
+    <state width="1866" height="318" key="GridCell.Tab.0.bottom" timestamp="1599862397335">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="318" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599420495533" />
-    <state width="1866" height="318" key="GridCell.Tab.0.left" timestamp="1599420495533">
+    <state width="1866" height="318" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599862397335" />
+    <state width="1866" height="318" key="GridCell.Tab.0.center" timestamp="1599862397334">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="318" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599420495533" />
-    <state width="1866" height="318" key="GridCell.Tab.0.right" timestamp="1599420495534">
+    <state width="1866" height="318" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599862397334" />
+    <state width="1866" height="318" key="GridCell.Tab.0.left" timestamp="1599862397333">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="318" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599420495534" />
-    <state width="1866" height="367" key="GridCell.Tab.1.bottom" timestamp="1599354991841">
+    <state width="1866" height="318" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599862397333" />
+    <state width="1866" height="318" key="GridCell.Tab.0.right" timestamp="1599862397334">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="367" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599354991841" />
-    <state width="1866" height="367" key="GridCell.Tab.1.center" timestamp="1599354991841">
+    <state width="1866" height="318" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599862397334" />
+    <state width="1866" height="367" key="GridCell.Tab.1.bottom" timestamp="1599858924177">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="367" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599354991840" />
-    <state width="1866" height="367" key="GridCell.Tab.1.left" timestamp="1599354991839">
+    <state width="1866" height="367" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1599858924177" />
+    <state width="1866" height="367" key="GridCell.Tab.1.center" timestamp="1599858924175">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="367" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599354991839" />
-    <state width="1866" height="367" key="GridCell.Tab.1.right" timestamp="1599354991841">
+    <state width="1866" height="367" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1599858924175" />
+    <state width="1866" height="367" key="GridCell.Tab.1.left" timestamp="1599858924174">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1866" height="367" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599354991841" />
-    <state x="0" y="131" width="1299" height="728" key="SettingsEditor" timestamp="1599350141092">
+    <state width="1866" height="367" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1599858924174" />
+    <state width="1866" height="367" key="GridCell.Tab.1.right" timestamp="1599858924176">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="0" y="131" width="1299" height="728" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1599350141092" />
-    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1599354983445">
+    <state width="1866" height="367" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1599858924176" />
+    <state x="306" y="142" width="1299" height="857" key="SettingsEditor" timestamp="1599855846170">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1599354983445" />
+    <state x="306" y="142" width="1299" height="857" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1599855846170" />
+    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1599420854375">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="555" y="291" width="800" height="529" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1599420854375" />
     <state x="881" y="163" width="848" height="785" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599248150869">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
