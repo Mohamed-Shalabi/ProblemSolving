@@ -1,6 +1,6 @@
 package leetcode
 
-func DifferenceOfSums(n int, m int) int {
+func differenceOfSums(n int, m int) int {
 	sum := (n + 1) * n / 2
 	k := n / m
 

@@ -1,10 +1,14 @@
 package main
 
-import (
-	"getting_started/leetcode"
-	"fmt"
-)
+// import (
+// 	"fmt"
+// 	"getting_started/leetcode"
+// )
 
 func main() {
-	fmt.Println(leetcode.DifferenceOfSums(10, 3))
+	// fmt.Println(
+	// leetcode.RemoveDuplicates(
+	// 	[]int{1, 2, 2, 3},
+	// ),
+	// )
 }
